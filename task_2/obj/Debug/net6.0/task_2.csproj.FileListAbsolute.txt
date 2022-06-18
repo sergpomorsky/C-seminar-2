@@ -1,0 +1,15 @@
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/task_2.csproj.AssemblyReference.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/task_2.AssemblyInfoInputs.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/task_2.AssemblyInfo.cs
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/task_2.csproj.CoreCompileInputs.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/bin/Debug/net6.0/task_2
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/bin/Debug/net6.0/task_2.deps.json
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/bin/Debug/net6.0/task_2.runtimeconfig.json
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/bin/Debug/net6.0/task_2.dll
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/bin/Debug/net6.0/task_2.pdb
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/task_2.dll
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/refint/task_2.dll
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/task_2.pdb
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/task_2.genruntimeconfig.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_2/obj/Debug/net6.0/ref/task_2.dll
