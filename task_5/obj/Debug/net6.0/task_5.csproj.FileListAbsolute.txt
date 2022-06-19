@@ -1,0 +1,15 @@
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/bin/Debug/net6.0/task_5
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/bin/Debug/net6.0/task_5.deps.json
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/bin/Debug/net6.0/task_5.runtimeconfig.json
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/bin/Debug/net6.0/task_5.dll
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/bin/Debug/net6.0/task_5.pdb
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/task_5.csproj.AssemblyReference.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/task_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/task_5.AssemblyInfoInputs.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/task_5.AssemblyInfo.cs
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/task_5.csproj.CoreCompileInputs.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/task_5.dll
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/refint/task_5.dll
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/task_5.pdb
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/task_5.genruntimeconfig.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_5/obj/Debug/net6.0/ref/task_5.dll
