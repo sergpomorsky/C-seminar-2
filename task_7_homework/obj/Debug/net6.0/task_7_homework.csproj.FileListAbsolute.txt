@@ -1,0 +1,15 @@
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/bin/Debug/net6.0/task_7_homework
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/bin/Debug/net6.0/task_7_homework.deps.json
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/bin/Debug/net6.0/task_7_homework.runtimeconfig.json
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/bin/Debug/net6.0/task_7_homework.dll
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/bin/Debug/net6.0/task_7_homework.pdb
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/task_7_homework.csproj.AssemblyReference.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/task_7_homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/task_7_homework.AssemblyInfoInputs.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/task_7_homework.AssemblyInfo.cs
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/task_7_homework.csproj.CoreCompileInputs.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/task_7_homework.dll
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/refint/task_7_homework.dll
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/task_7_homework.pdb
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/task_7_homework.genruntimeconfig.cache
+/Users/sergej/Desktop/Geekbrains/C#/seminar 2/classwork/task_7_homework/obj/Debug/net6.0/ref/task_7_homework.dll
